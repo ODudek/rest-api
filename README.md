@@ -1,4 +1,4 @@
-# Rest api
+# Todo rest api
 
 Simple rest api in golang.
 
